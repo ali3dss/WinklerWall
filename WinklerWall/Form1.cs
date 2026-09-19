@@ -984,7 +984,7 @@ namespace WinklerWall
                 // ============================================================
 
                 sb.AppendLine();
-                sb.AppendLine("ANÁLISIS WINKLER ELASTOPLÁSTICO");
+                sb.AppendLine("ANÁLISIS WINKLER ELASTOPLÁSTICO.");
                 sb.AppendLine("================================");
 
 
