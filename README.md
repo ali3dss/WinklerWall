@@ -4,6 +4,14 @@ WINKLERWALL es una aplicación de escritorio desarrollada en C# para el análisi
 
 El programa ha sido desarrollado como parte de un Trabajo Fin de Máster relacionado con el análisis comparativo del comportamiento de muros pantalla mediante modelos de muelles y métodos de elementos finitos.
 
+## Descarga
+
+La versión instalable de WINKLERWALL está disponible en la sección **Releases** del repositorio.
+
+Descargue el archivo ZIP de la versión más reciente, extraiga su contenido y ejecute:
+
+`setup.exe`
+
 ## Funcionalidades principales
 
 - Definición de la geometría de la pantalla.
