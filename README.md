@@ -1,8 +1,13 @@
 # WINKLERWALL
 
+<p align="center">
+  <img src="images/winklerwall.png" width="850">
+</p>
+
 WINKLERWALL es una aplicación de escritorio desarrollada en C# para el análisis de pantallas en voladizo mediante el modelo de coeficiente de balasto de Winkler.
 
 El programa ha sido desarrollado como parte de un Trabajo Fin de Máster relacionado con el análisis comparativo del comportamiento de muros pantalla mediante modelos de muelles y métodos de elementos finitos.
+
 
 ## Descarga
 
